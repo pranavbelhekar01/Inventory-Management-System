@@ -6,3 +6,4 @@ Our inventory management system is developed using Tkinter, a Python library for
 The system features a range of functionality, including the ability to add and update inventory records, view reports and charts, and generate alerts when inventory levels are low. It also provides tools for tracking orders and suppliers, making it an all-in-one solution for managing the inventory of a business.
 
 With its intuitive interface and robust feature set, our inventory management system is a valuable tool for any business looking to streamline their inventory management process and improve their overall supply chain efficiency.
+
