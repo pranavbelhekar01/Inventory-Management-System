@@ -70,6 +70,8 @@ class IMS:
 
         self.im3 = ImageTk.PhotoImage(file='photos/blue_frame.png')
         frame_label = Label(self.root, image=self.im3, bd_=0).place(x=290, y=280)
+        
+  
 
         self.im4 = ImageTk.PhotoImage(file='photos/dark_blue_frame.png')
         frame_label = Label(self.root, image=self.im4, bd_=0).place(x=590, y=280)
@@ -172,3 +174,4 @@ if __name__ == '__main__':
     root = Tk()
     obj=IMS(root)
     root.mainloop()
+# created by Pranav Belhekar
