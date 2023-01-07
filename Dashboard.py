@@ -96,7 +96,7 @@ class IMS:
         self.lbl_sales.place(x=300, y=440, height=100, width=200)
         
         self.update_content()
-# =============================================================
+# =========================== fucntions ==================================
 
     def employee(self):
         self.new_win=Toplevel(self.root)
