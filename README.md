@@ -7,3 +7,4 @@ The system features a range of functionality, including the ability to add and u
 
 With its intuitive interface and robust feature set, our inventory management system is a valuable tool for any business looking to streamline their inventory management process and improve their overall supply chain efficiency.
 
+![image](https://user-images.githubusercontent.com/85128700/223730295-30027f7d-46a6-4654-a7fb-e49cd08e1d75.png)
